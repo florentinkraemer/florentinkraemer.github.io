@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Florentin Krämer</title>
-    <link>/about/index.xml</link>
+    <link>http://florentinkraemer.com/about/index.xml</link>
     <description>Recent content in Abouts on Florentin Krämer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Florentin Krämer</copyright>
     <lastBuildDate>Wed, 08 Mar 2017 21:05:33 +0530</lastBuildDate>
-    <atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://florentinkraemer.com/about/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>http://florentinkraemer.com/about/</link>
       <pubDate>Wed, 08 Mar 2017 21:05:33 +0530</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://florentinkraemer.com/about/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied, ranging from the interaction between concerns for animal welfare and prosocial behavior towards human beings (&lt;a href=&#34;/doc/AnimalWelfareAndHumanEthics.pdf&#34;&gt;it&amp;rsquo;s positive!&lt;/a&gt;) to understanding when customer-driven pricing mechanisms work (&lt;a href=&#34;/doc/DelegatingPricingPowerToCustomers.pdf&#34;&gt;it depends&amp;hellip;&lt;/a&gt;) and examining whether context influences decision making in a speed dating experiment (&lt;a href=&#34;/doc/ContextDependenceInSpeedDating.pdf&#34;&gt;it does!&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied, ranging from the interaction between concerns for animal welfare and prosocial behavior towards human beings (&lt;a href=&#34;http://florentinkraemer.com/doc/AnimalWelfareAndHumanEthics.pdf&#34;&gt;it&amp;rsquo;s positive!&lt;/a&gt;) to understanding when customer-driven pricing mechanisms work (&lt;a href=&#34;http://florentinkraemer.com/doc/DelegatingPricingPowerToCustomers.pdf&#34;&gt;it depends&amp;hellip;&lt;/a&gt;) and examining whether context influences decision making in a speed dating experiment (&lt;a href=&#34;http://florentinkraemer.com/doc/ContextDependenceInSpeedDating.pdf&#34;&gt;it does!&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/florentin.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://florentinkraemer.com/img/florentin.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In other capacities, I like to travel, cook, brew beer, read, and most importantly play the bassoon and contrabassoon. I&amp;rsquo;m actively participating in several orchestras in Munich (though not always at the same time&amp;hellip;): the &lt;a href=&#34;http://www.mio-home.de&#34;&gt;Munich International Orchestra&lt;/a&gt;, the &lt;a href=&#34;http://www.s-o-m-a.de&#34;&gt;Symphony Orchestra Munich Andechs&lt;/a&gt;, and the &lt;a href=&#34;http://www.bkpm.de&#34;&gt;Blutenburg Kammerphilharmonie&lt;/a&gt;. I&amp;rsquo;m also one of the founding members of aulos klangakademie e.V., which organizes an annual one-week choir and orchestra camp.&lt;/p&gt;
 
@@ -28,7 +28,7 @@
 
 &lt;p&gt;I am currently employed at the University of Munich, where I have been a research and teaching assistant at the chair of &lt;a href=&#34;http://www.et.econ.uni-muenchen.de/personen/professor/schmidt/index.html&#34;&gt;Prof. Dr. Klaus M. Schmidt&lt;/a&gt; for the past three and a half years. I&amp;rsquo;m expecting to receive my doctorate in economics in May 2017.&lt;/p&gt;
 
-&lt;p&gt;Prior to that, I completed my M.Sc. at the University of Munich, and my B.A. at the University of St. Gallen. Please find my detailed CV &lt;a href=&#34;/doc/CV_FlorentinKraemer.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prior to that, I completed my M.Sc. at the University of Munich, and my B.A. at the University of St. Gallen. Please find my detailed CV &lt;a href=&#34;http://florentinkraemer.com/doc/CV_FlorentinKraemer.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

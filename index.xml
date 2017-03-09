@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florentin Krämer</title>
-    <link>/index.xml</link>
+    <link>http://florentinkraemer.com/index.xml</link>
     <description>Recent content on Florentin Krämer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Florentin Krämer</copyright>
     <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://florentinkraemer.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Animal Welfare and Human Ethics</title>
-      <link>/portfolio/paper2/</link>
+      <link>http://florentinkraemer.com/portfolio/paper2/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/paper2/</guid>
+      <guid>http://florentinkraemer.com/portfolio/paper2/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
@@ -23,16 +23,16 @@
 &lt;p&gt;We elicit concern for animal welfare in an incentivized, direct and real setup that allows us to separate genuine interest in animal welfare from confounding factors like advertisement, replacement arguments or image concerns. Subjects choose between intensive farming and organic living conditions for a laying hen. Opting for better living conditions is costly, but guarantees better food, daylight, and more space to the hen. Hence subjects have to trade off  a selfish benefit (money) against the welfare of a hen. Our data shed light on a long-standing philosophical debate about the relationship between animal welfare and human ethics. We confirm that subjects with higher interests in the hen’s well-being exhibit higher moral standards towards humans. Supporters of intensive farming are significantly less prosocial and open-minded, and more Machiavellian than others.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/doc/AnimalWelfareAndHumanEthics.pdf&#34;&gt;Download paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://florentinkraemer.com/doc/AnimalWelfareAndHumanEthics.pdf&#34;&gt;Download paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>Context Dependence in Speed Dating</title>
-      <link>/portfolio/paper1/</link>
+      <link>http://florentinkraemer.com/portfolio/paper1/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/paper1/</guid>
+      <guid>http://florentinkraemer.com/portfolio/paper1/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;For quite some time, it has been known that how we perceive an object depends not just on its own objective qualities, but also on those of surrounding objects. In this paper, I draw on a speed dating experiment to show that such context dependence is not restricted to the domain of perception, but carries over to behavior. I also shed light on the mechanism through which context dependence operates.&lt;/p&gt;
@@ -42,17 +42,17 @@
 &lt;p&gt;Context influences decision making. However, evidence on the specific underlying mechanism is scarce. Since context dependence in decision making may impact consumers, firms and political agenda setters, exploring the precise mechanism through which choices are distorted is imperative. This paper provides evidence that expanding the utility range of one choice dimension leads decision makers to attach less weight to this attribute, in line with the notion of relative thinking (&lt;a href=&#34;http://people.hbs.edu/jschwartzstein/RelativeThinking.pdf&#34;&gt;Bushong et al., 2016&lt;/a&gt;. Context dependence is more pronounced if evaluators are female and survives extensive robustness checks. Implications for policy are discussed.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/doc/ContextDependenceInSpeedDating.pdf&#34;&gt;Download paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://florentinkraemer.com/doc/ContextDependenceInSpeedDating.pdf&#34;&gt;Download paper&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://andrewgelman.com/2008/01/21/the_speeddating_1/&#34;&gt;Access data set&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>Delegating Pricing Power To Customers</title>
-      <link>/portfolio/paper3/</link>
+      <link>http://florentinkraemer.com/portfolio/paper3/</link>
       <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
       
-      <guid>/portfolio/paper3/</guid>
+      <guid>http://florentinkraemer.com/portfolio/paper3/</guid>
       <description>&lt;p&gt;&lt;/p&gt;
 
 &lt;p&gt;joint with &lt;a href=&#34;http://www.et.econ.uni-muenchen.de/personen/professor/schmidt/index.html&#34;&gt;Klaus M. Schmidt&lt;/a&gt;, &lt;a href=&#34;http://www.ecm.bwl.uni-muenchen.de/personen/professoren/spann/index.html&#34;&gt;Martin Spann&lt;/a&gt; and &lt;a href=&#34;http://www.ecm.bwl.uni-muenchen.de/personen/mitarbeiter/stich/index.html&#34;&gt;Lucas Stich&lt;/a&gt;&lt;/p&gt;
@@ -62,21 +62,21 @@
 &lt;p&gt;Pay What You Want (PWYW) and Name Your Own Price (NYOP) are customer-driven pricing mechanisms that give customers (some) pricing power. Both have been used in service industries with high fixed costs to price discriminate without setting a reference price. Their participatory and innovative nature gives rise to promotional benefits that do not accrue to posted-price sellers. We explore the nature and effects of these benefits and compare PWYW and NYOP using controlled lab experiments. We show that PWYW is a very aggressive strategy that achieves almost full market penetration. It can be profitable if there are promotional benefits and if marginal costs are low. In contrast, NYOP can be used profitably also if marginal costs are high and if there are no such benefits. It reduces price competition and segments the market. In a second experiment, we generate promotional benefits endogenously. We show that PWYW monopolizes the follow-up market but fails to be profitable. NYOP is less successful in penetrating the market but yields much higher profits.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/doc/DelegatingPricingPowerToCustomers.pdf&#34;&gt;Download paper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://florentinkraemer.com/doc/DelegatingPricingPowerToCustomers.pdf&#34;&gt;Download paper&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>/about/</link>
+      <link>http://florentinkraemer.com/about/</link>
       <pubDate>Wed, 08 Mar 2017 21:05:33 +0530</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://florentinkraemer.com/about/</guid>
       <description>
 
-&lt;p&gt;I&amp;rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied, ranging from the interaction between concerns for animal welfare and prosocial behavior towards human beings (&lt;a href=&#34;/doc/AnimalWelfareAndHumanEthics.pdf&#34;&gt;it&amp;rsquo;s positive!&lt;/a&gt;) to understanding when customer-driven pricing mechanisms work (&lt;a href=&#34;/doc/DelegatingPricingPowerToCustomers.pdf&#34;&gt;it depends&amp;hellip;&lt;/a&gt;) and examining whether context influences decision making in a speed dating experiment (&lt;a href=&#34;/doc/ContextDependenceInSpeedDating.pdf&#34;&gt;it does!&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied, ranging from the interaction between concerns for animal welfare and prosocial behavior towards human beings (&lt;a href=&#34;http://florentinkraemer.com/doc/AnimalWelfareAndHumanEthics.pdf&#34;&gt;it&amp;rsquo;s positive!&lt;/a&gt;) to understanding when customer-driven pricing mechanisms work (&lt;a href=&#34;http://florentinkraemer.com/doc/DelegatingPricingPowerToCustomers.pdf&#34;&gt;it depends&amp;hellip;&lt;/a&gt;) and examining whether context influences decision making in a speed dating experiment (&lt;a href=&#34;http://florentinkraemer.com/doc/ContextDependenceInSpeedDating.pdf&#34;&gt;it does!&lt;/a&gt;).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/img/florentin.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://florentinkraemer.com/img/florentin.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In other capacities, I like to travel, cook, brew beer, read, and most importantly play the bassoon and contrabassoon. I&amp;rsquo;m actively participating in several orchestras in Munich (though not always at the same time&amp;hellip;): the &lt;a href=&#34;http://www.mio-home.de&#34;&gt;Munich International Orchestra&lt;/a&gt;, the &lt;a href=&#34;http://www.s-o-m-a.de&#34;&gt;Symphony Orchestra Munich Andechs&lt;/a&gt;, and the &lt;a href=&#34;http://www.bkpm.de&#34;&gt;Blutenburg Kammerphilharmonie&lt;/a&gt;. I&amp;rsquo;m also one of the founding members of aulos klangakademie e.V., which organizes an annual one-week choir and orchestra camp.&lt;/p&gt;
 
@@ -84,26 +84,30 @@
 
 &lt;p&gt;I am currently employed at the University of Munich, where I have been a research and teaching assistant at the chair of &lt;a href=&#34;http://www.et.econ.uni-muenchen.de/personen/professor/schmidt/index.html&#34;&gt;Prof. Dr. Klaus M. Schmidt&lt;/a&gt; for the past three and a half years. I&amp;rsquo;m expecting to receive my doctorate in economics in May 2017.&lt;/p&gt;
 
-&lt;p&gt;Prior to that, I completed my M.Sc. at the University of Munich, and my B.A. at the University of St. Gallen. Please find my detailed CV &lt;a href=&#34;/doc/CV_FlorentinKraemer.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Prior to that, I completed my M.Sc. at the University of Munich, and my B.A. at the University of St. Gallen. Please find my detailed CV &lt;a href=&#34;http://florentinkraemer.com/doc/CV_FlorentinKraemer.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Colophon</title>
-      <link>/colophon/</link>
+      <link>http://florentinkraemer.com/colophon/</link>
       <pubDate>Wed, 08 Mar 2017 21:05:33 +0530</pubDate>
       
-      <guid>/colophon/</guid>
-      <description>&lt;p&gt;This website is generated using &lt;a href=&#34;https://www.gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a fast static website generator. It uses a template generously provided by &lt;a href=&#34;https://github.com/kishaningithub&#34;&gt;Kishan B&lt;/a&gt; and adapted from &lt;a href=&#34;https://bootstrapious.com/&#34;&gt;bootstrapious.com&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://florentinkraemer.com/colophon/</guid>
+      <description>&lt;p&gt;This website has been generated using &lt;a href=&#34;https://www.gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a fast static website generator. It uses a template by &lt;a href=&#34;https://bootstrapious.com/&#34;&gt;bootstrapious.com&lt;/a&gt;, ported to Hugo by &lt;a href=&#34;https://github.com/kishaningithub&#34;&gt;Kishan B&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It runs on &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, using the excellent &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt; R package by &lt;a href=&#34;https://yihui.name/&#34;&gt;Yihui Xie&lt;/a&gt; in the background. The entire code for building this website is available on &lt;a href=&#34;https://github.com/florentinkraemer&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Getting this site up and running is due to a combination of two great tutorials by &lt;a href=&#34;http://robertmyles.github.io/2017/02/01/how-to-make-a-github-pages-blog-with-rstudio-and-hugo/&#34;&gt;Robert Myles McDonell&lt;/a&gt; and &lt;a href=&#34;https://proquestionasker.github.io/blog/Making_Site/&#34;&gt;Amber Thomas&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Get in touch</title>
-      <link>/contact/</link>
+      <link>http://florentinkraemer.com/contact/</link>
       <pubDate>Sun, 06 Nov 2016 13:00:25 +0530</pubDate>
       
-      <guid>/contact/</guid>
+      <guid>http://florentinkraemer.com/contact/</guid>
       <description>&lt;p&gt;If you would like to get in touch, feel free to shoot me an email at mail [at] florentinkraemer [dot] com.&lt;/p&gt;
 </description>
     </item>
