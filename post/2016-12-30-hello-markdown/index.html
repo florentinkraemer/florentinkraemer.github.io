@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>About me</title>
+<title>A Plain Markdown Post</title>
 <meta name="description" content="This is the personal website of Florentin Krämer. I am an applied empirical economist with a research focus on behavioral and experimental economics, currently employed at the University of Munich.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -68,11 +68,6 @@ ga('send', 'pageview');
   
   
   
-  
-  <a href="https://www.xing.com/profile/Florentin_Kraemer" data-animate-hover="pulse">
-    <i class="fa fa-xing"></i>
-  </a>
-    
 </p>
 
 
@@ -81,7 +76,10 @@ ga('send', 'pageview');
         
           &copy; 2017 Florentin Krämer
         
-        
+        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
       </p>
     </div>
   </div>
@@ -97,21 +95,31 @@ ga('send', 'pageview');
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>About me</h1>
+         <h1>A Plain Markdown Post</h1>
+         <p>This is a post written in plain Markdown (<code>*.md</code>) instead of R Markdown (<code>*.Rmd</code>). The major differences are:</p>
+
+<ol>
+<li>You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (<code>```{r}</code>);</li>
+<li>A plain Markdown post is rendered through <a href="https://gohugo.io/overview/configuration/">Blackfriday</a>, and an R Markdown document is compiled by <a href="http://rmarkdown.rstudio.com"><strong>rmarkdown</strong></a> and <a href="http://pandoc.org">Pandoc</a>.</li>
+</ol>
+
+<p>There are many differences in syntax between Blackfriday&rsquo;s Markdown and Pandoc&rsquo;s Markdown. For example, you can write a task list with Blackfriday but not with Pandoc:</p>
+
+<ul class="task-list">
+<li><input type="checkbox" checked disabled class="task-list-item"> Write an R package.</li>
+<li><input type="checkbox" disabled class="task-list-item"> Write a book.</li>
+<li><input type="checkbox" disabled class="task-list-item"> &hellip;</li>
+<li><input type="checkbox" disabled class="task-list-item"> Profit!</li>
+</ul>
+
+<p>Similarly, Blackfriday does not support LaTeX math and Pandoc does. I have added the MathJax support to this theme (<a href="https://github.com/yihui/hugo-lithium-theme">hugo-lithium-theme</a>) but there is a caveat for plain Markdown posts: you have to include inline math expressions in  a pair of escaped parentheses <code>\( \)</code> instead of dollar signs <code>$ $</code>, e.g. <code>\(S_n = \sum_{i=1}^n X_i\)</code>. For R Markdown posts, you can use <code>$ $</code> to write inline math expressions.</p>
+
+<p>When creating a new post, you have to decide whether the post format is Markdown or R Markdown, and this can be done via the <code>rmd</code> argument of the function <code>blogdown::new_post()</code>, e.g.</p>
+
+<pre><code class="language-r">blogdown::new_post(&quot;Post Title&quot;, rmd = FALSE)
+</code></pre>
+
          
-
-<p>I&rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied, ranging from the interaction between concerns for animal welfare and prosocial behavior towards human beings (<a href="/doc/AnimalWelfareAndHumanEthics.pdf">it&rsquo;s positive!</a>) to understanding when customer-driven pricing mechanisms work (<a href="/doc/DelegatingPricingPowerToCustomers.pdf">it depends&hellip;</a>) and examining whether context influences decision making in a speed dating experiment (<a href="/doc/ContextDependenceInSpeedDating.pdf">it does!</a>).</p>
-
-<p><img src="/img/florentin.jpg" alt="This is me" /></p>
-
-<p>In other capacities, I like to travel, cook, brew beer, read, and most importantly play the bassoon and contrabassoon. I&rsquo;m actively participating in several orchestras in Munich (though not always at the same time&hellip;): the <a href="http://www.mio-home.de">Munich International Orchestra</a>, the <a href="http://www.s-o-m-a.de">Symphony Orchestra Munich Andechs</a>, and the <a href="http://www.bkpm.de">Blutenburg Kammerphilharmonie</a>. I&rsquo;m also one of the founding members of aulos klangakademie e.V., which organizes an annual one-week choir and orchestra camp.</p>
-
-<h4 id="education">Education</h4>
-
-<p>I am currently employed at the University of Munich, where I have been a research and teaching assistant at the chair of <a href="http://www.et.econ.uni-muenchen.de/personen/professor/schmidt/index.html">Prof. Dr. Klaus M. Schmidt</a> for the past three and a half years. I&rsquo;m expecting to receive my doctorate in economics in May 2017.</p>
-
-<p>Prior to that, I completed my M.Sc. at the University of Munich, and my B.A. at the University of St. Gallen. Please find my detailed CV <a href="/doc/CV_FlorentinKraemer.pdf">here</a>.</p>
-
       </div>
     </div>
   </div>

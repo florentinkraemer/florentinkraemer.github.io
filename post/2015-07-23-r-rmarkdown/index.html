@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>About me</title>
+<title>Hello R Markdown</title>
 <meta name="description" content="This is the personal website of Florentin Krämer. I am an applied empirical economist with a research focus on behavioral and experimental economics, currently employed at the University of Munich.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="all,follow">
@@ -68,11 +68,6 @@ ga('send', 'pageview');
   
   
   
-  
-  <a href="https://www.xing.com/profile/Florentin_Kraemer" data-animate-hover="pulse">
-    <i class="fa fa-xing"></i>
-  </a>
-    
 </p>
 
 
@@ -81,7 +76,10 @@ ga('send', 'pageview');
         
           &copy; 2017 Florentin Krämer
         
-        
+        | Template by <a href="https://bootstrapious.com/free-templates" class="external">Bootstrapious.com</a>
+
+&amp; ported to Hugo by <a href="https://github.com/kishaningithub">Kishan B</a>
+
       </p>
     </div>
   </div>
@@ -97,21 +95,48 @@ ga('send', 'pageview');
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>About me</h1>
+         <h1>Hello R Markdown</h1>
+         <div id="r-markdown" class="section level1">
+<h1>R Markdown</h1>
+<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>You can embed an R code chunk like this:</p>
+<pre class="r"><code>summary(cars)
+##      speed           dist       
+##  Min.   : 4.0   Min.   :  2.00  
+##  1st Qu.:12.0   1st Qu.: 26.00  
+##  Median :15.0   Median : 36.00  
+##  Mean   :15.4   Mean   : 42.98  
+##  3rd Qu.:19.0   3rd Qu.: 56.00  
+##  Max.   :25.0   Max.   :120.00
+fit &lt;- lm(dist ~ speed, data = cars)
+fit
+## 
+## Call:
+## lm(formula = dist ~ speed, data = cars)
+## 
+## Coefficients:
+## (Intercept)        speed  
+##     -17.579        3.932</code></pre>
+</div>
+<div id="including-plots" class="section level1">
+<h1>Including Plots</h1>
+<p>You can also embed plots. See Figure <a href="#fig:pie">1</a> for example:</p>
+<pre class="r"><code>par(mar = c(0, 1, 0, 1))
+pie(
+  c(280, 60, 20),
+  c(&#39;Sky&#39;, &#39;Sunny side of pyramid&#39;, &#39;Shady side of pyramid&#39;),
+  col = c(&#39;#0292D8&#39;, &#39;#F7EA39&#39;, &#39;#C4B632&#39;),
+  init.angle = -50, border = NA
+)</code></pre>
+<div class="figure"><span id="fig:pie"></span>
+<img src="/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png" alt="A fancy pie chart." width="672" />
+<p class="caption">
+Figure 1: A fancy pie chart.
+</p>
+</div>
+</div>
+
          
-
-<p>I&rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied, ranging from the interaction between concerns for animal welfare and prosocial behavior towards human beings (<a href="/doc/AnimalWelfareAndHumanEthics.pdf">it&rsquo;s positive!</a>) to understanding when customer-driven pricing mechanisms work (<a href="/doc/DelegatingPricingPowerToCustomers.pdf">it depends&hellip;</a>) and examining whether context influences decision making in a speed dating experiment (<a href="/doc/ContextDependenceInSpeedDating.pdf">it does!</a>).</p>
-
-<p><img src="/img/florentin.jpg" alt="This is me" /></p>
-
-<p>In other capacities, I like to travel, cook, brew beer, read, and most importantly play the bassoon and contrabassoon. I&rsquo;m actively participating in several orchestras in Munich (though not always at the same time&hellip;): the <a href="http://www.mio-home.de">Munich International Orchestra</a>, the <a href="http://www.s-o-m-a.de">Symphony Orchestra Munich Andechs</a>, and the <a href="http://www.bkpm.de">Blutenburg Kammerphilharmonie</a>. I&rsquo;m also one of the founding members of aulos klangakademie e.V., which organizes an annual one-week choir and orchestra camp.</p>
-
-<h4 id="education">Education</h4>
-
-<p>I am currently employed at the University of Munich, where I have been a research and teaching assistant at the chair of <a href="http://www.et.econ.uni-muenchen.de/personen/professor/schmidt/index.html">Prof. Dr. Klaus M. Schmidt</a> for the past three and a half years. I&rsquo;m expecting to receive my doctorate in economics in May 2017.</p>
-
-<p>Prior to that, I completed my M.Sc. at the University of Munich, and my B.A. at the University of St. Gallen. Please find my detailed CV <a href="/doc/CV_FlorentinKraemer.pdf">here</a>.</p>
-
       </div>
     </div>
   </div>

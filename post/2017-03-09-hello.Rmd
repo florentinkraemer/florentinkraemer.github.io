@@ -1,0 +1,8 @@
+---
+title: Hello
+author: Florentin
+date: '2017-03-09'
+draft: FALSE
+---
+
+This is a small `RMarkdown` post in order to test its functionality...
