@@ -2,61 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://florentinkraemer.com/portfolio/paper2/</loc>
+    <loc>/portfolio/paper2/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/portfolio/paper1/</loc>
+    <loc>/portfolio/paper1/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/portfolio/paper3/</loc>
+    <loc>/portfolio/paper3/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-03-08T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/colophon/</loc>
+    <loc>/colophon/</loc>
     <lastmod>2017-03-08T21:05:33+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2017-03-08T21:05:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/colophon/</loc>
+    <loc>/colophon/</loc>
     <lastmod>2017-03-08T21:05:33+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/contact/</loc>
+    <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/</loc>
+    <loc>/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://florentinkraemer.com/portfolio/</loc>
+    <loc>/portfolio/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
   </url>
