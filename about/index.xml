@@ -18,7 +18,7 @@
       <guid>http://florentinkraemer.com/about/</guid>
       <description>
 
-&lt;p&gt;![This is me][/img/florentin.jpg]&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://florentinkraemer.com/img/florentin.jpg&#34; alt=&#34;This is me&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m an applied microeconomist with a focus on behavioral and experimental economics. In my research I combine theory and experimental evidence to structure and guide analysis. My interests are quite varied: in the past, I have worked on&lt;/p&gt;
 
