@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colophons on Florentin Krämer</title>
-    <link>/colophon/index.xml</link>
+    <link>http://florentinkraemer.com/colophon/index.xml</link>
     <description>Recent content in Colophons on Florentin Krämer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Florentin Krämer</copyright>
     <lastBuildDate>Wed, 08 Mar 2017 21:05:33 +0530</lastBuildDate>
-    <atom:link href="/colophon/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://florentinkraemer.com/colophon/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Colophon</title>
-      <link>/colophon/</link>
+      <link>http://florentinkraemer.com/colophon/</link>
       <pubDate>Wed, 08 Mar 2017 21:05:33 +0530</pubDate>
       
-      <guid>/colophon/</guid>
+      <guid>http://florentinkraemer.com/colophon/</guid>
       <description>&lt;p&gt;This website has been generated using &lt;a href=&#34;https://www.gohugo.io&#34;&gt;Hugo&lt;/a&gt;, a fast static website generator. It uses a template by &lt;a href=&#34;https://bootstrapious.com/&#34;&gt;bootstrapious.com&lt;/a&gt;, ported to Hugo by &lt;a href=&#34;https://github.com/kishaningithub&#34;&gt;Kishan B&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;It runs on &lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;, using the excellent &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;blogdown&lt;/a&gt; R package by &lt;a href=&#34;https://yihui.name/&#34;&gt;Yihui Xie&lt;/a&gt; in the background. The entire code for building this website is available on &lt;a href=&#34;https://github.com/florentinkraemer&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
