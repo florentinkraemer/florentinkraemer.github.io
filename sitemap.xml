@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://florentinkraemer.com/portfolio/paper2/</loc>
@@ -14,6 +15,11 @@
   <url>
     <loc>http://florentinkraemer.com/portfolio/paper3/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://florentinkraemer.com/portfolio/buyer-and-seller-data-from-pay-what-you-want-and-name-your-own-price-laboratory-markets/</loc>
+    <lastmod>2017-07-26T08:54:03+00:00</lastmod>
   </url>
   
   <url>
@@ -34,6 +40,11 @@
   <url>
     <loc>http://florentinkraemer.com/about/</loc>
     <lastmod>2017-03-08T21:05:33+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://florentinkraemer.com/categories/</loc>
     <priority>0</priority>
   </url>
   
@@ -58,6 +69,11 @@
   <url>
     <loc>http://florentinkraemer.com/portfolio/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://florentinkraemer.com/tags/</loc>
     <priority>0</priority>
   </url>
   
